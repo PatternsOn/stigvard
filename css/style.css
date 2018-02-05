@@ -1,0 +1,12 @@
+body {
+    background: url("../image/background.png") no-repeat center center fixed;
+    opacity: 0.9;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#white-text {
+    font-color: white;
+}
